@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <remote name="origin" fetch="ssh://git@github.com/" />
+  <default revision="master" remote="origin" />
+  <project path="T_Wrapper" name="birmjin10000/c1" />
+  <project path="T2" name="birmjin10000/c2" />
+</manifest>
