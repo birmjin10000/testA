@@ -3,5 +3,5 @@
   <remote name="origin" fetch="ssh://git@github.com/" />
   <default revision="master" remote="origin" />
   <project path="T_Wrapper" name="birmjin10000/c1" />
-  <project path="" name="birmjin10000/c2" />
+  <project path="." name="birmjin10000/c2" />
 </manifest>
